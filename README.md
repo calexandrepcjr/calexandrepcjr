@@ -74,6 +74,13 @@ Passionate software development engineer with over a decade of experience, speci
 
 ## 🏆 Featured Projects
 
+### 📝 [Expresso CMS](https://github.com/calexandrepcjr/expresso-cms)
+**PHP | Content Management System**
+- Modern content management platform
+- Flexible architecture for web publishing
+- User-friendly administrative interface
+- SEO-optimized content delivery
+
 ### 🔧 [JobScheduler](https://github.com/calexandrepcjr/JobScheduler)
 **C# | Job Scheduling System**
 - Enterprise-level job scheduling solution
