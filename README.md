@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Carlos Alexandre
 
-## 🚀 Software Development Engineer | 10+ Years Experience | São Paulo 🇧🇷
+## 🚀 Software Development Engineer | 10+ Years Experience | São Paulo <img src="https://flagcdn.com/16x12/br.png" width="20" alt="Brazil"/>
 
 > *"An experienced developer can work in any language"*
 
