@@ -153,4 +153,6 @@ Passionate software development engineer with over a decade of experience, speci
 
 ---
 
-*Last updated: September 2024*
+<div align="center">
+  <img src="https://img.shields.io/github/last-commit/calexandrepcjr/calexandrepcjr?style=flat-square&color=blue&label=Last%20Updated" alt="Last Updated"/>
+</div>
