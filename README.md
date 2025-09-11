@@ -88,33 +88,16 @@ Passionate software development engineer with over a decade of experience, speci
 
 <div align="center">
 
-### Backend Development
-![Backend](https://img.shields.io/badge/Expert-95%25-brightgreen?style=for-the-badge)
-`C# • Java • TypeScript • PHP • Node.js • API Design`
+<img src="https://quickchart.io/chart?bkg=white&c=%7B%22type%22%3A%22horizontalBar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Backend%20Development%22%2C%22DevOps%20%26%20Infrastructure%22%2C%22Database%20Management%22%2C%22Software%20Architecture%22%2C%22Cloud%20Platforms%22%2C%22Project%20Management%22%2C%22Frontend%20Development%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B95%2C90%2C90%2C88%2C85%2C80%2C75%5D%2C%22backgroundColor%22%3A%5B%22%23059669%22%2C%22%23059669%22%2C%22%23059669%22%2C%22%23059669%22%2C%22%231d4ed8%22%2C%22%231d4ed8%22%2C%22%23d97706%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A100%7D%7D%5D%7D%2C%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Technical%20Expertise%20Overview%22%7D%7D%7D" alt="Technical Skills Chart" width="650"/>
 
-### DevOps & Infrastructure 
-![DevOps](https://img.shields.io/badge/Expert-90%25-brightgreen?style=for-the-badge)
-`Docker • Kubernetes • AWS • CI/CD • Terraform • Monitoring`
-
-### Database Management
-![Database](https://img.shields.io/badge/Expert-90%25-brightgreen?style=for-the-badge)
-`MongoDB • MySQL • PostgreSQL • Redis • Database Design`
-
-### Software Architecture
-![Architecture](https://img.shields.io/badge/Expert-88%25-brightgreen?style=for-the-badge)
-`Microservices • Clean Architecture • System Design • Scalability`
-
-### Cloud Platforms
-![Cloud](https://img.shields.io/badge/Advanced-85%25-green?style=for-the-badge)
-`AWS • Azure • Google Cloud • Serverless • Multi-Cloud`
-
-### Frontend Development
-![Frontend](https://img.shields.io/badge/Proficient-75%25-yellowgreen?style=for-the-badge)
-`React • Angular • JavaScript • UI/UX Integration`
-
-### Project Management
-![PM](https://img.shields.io/badge/Certified-80%25-green?style=for-the-badge)
-`Scrum • Kanban • Agile • Team Leadership • Remote Collaboration`
+### 🎯 **Skill Breakdown:**
+- 💻 **Backend Development (95%)**: C# • Java • TypeScript • PHP • Node.js • API Design
+- 🚀 **DevOps & Infrastructure (90%)**: Docker • Kubernetes • AWS • CI/CD • Terraform • Monitoring  
+- 🗄️ **Database Management (90%)**: MongoDB • MySQL • PostgreSQL • Redis • Database Design
+- 🏗️ **Software Architecture (88%)**: Microservices • Clean Architecture • System Design • Scalability
+- ☁️ **Cloud Platforms (85%)**: AWS • Azure • Google Cloud • Serverless • Multi-Cloud
+- 📋 **Project Management (80%)**: Scrum • Kanban • Agile • Team Leadership • Remote Collaboration
+- 🎨 **Frontend Development (75%)**: React • Angular • JavaScript • UI/UX Integration
 
 </div>
 
