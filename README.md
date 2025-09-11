@@ -84,6 +84,42 @@ Passionate software development engineer with over a decade of experience, speci
 
 ---
 
+## 💪 Core Strengths & Expertise
+
+<div align="center">
+
+### Backend Development
+![Backend](https://img.shields.io/badge/Expert-95%25-brightgreen?style=for-the-badge)
+`C# • Java • TypeScript • PHP • Node.js • API Design`
+
+### DevOps & Infrastructure 
+![DevOps](https://img.shields.io/badge/Expert-90%25-brightgreen?style=for-the-badge)
+`Docker • Kubernetes • AWS • CI/CD • Terraform • Monitoring`
+
+### Database Management
+![Database](https://img.shields.io/badge/Expert-90%25-brightgreen?style=for-the-badge)
+`MongoDB • MySQL • PostgreSQL • Redis • Database Design`
+
+### Software Architecture
+![Architecture](https://img.shields.io/badge/Expert-88%25-brightgreen?style=for-the-badge)
+`Microservices • Clean Architecture • System Design • Scalability`
+
+### Cloud Platforms
+![Cloud](https://img.shields.io/badge/Advanced-85%25-green?style=for-the-badge)
+`AWS • Azure • Google Cloud • Serverless • Multi-Cloud`
+
+### Frontend Development
+![Frontend](https://img.shields.io/badge/Proficient-75%25-yellowgreen?style=for-the-badge)
+`React • Angular • JavaScript • UI/UX Integration`
+
+### Project Management
+![PM](https://img.shields.io/badge/Certified-80%25-green?style=for-the-badge)
+`Scrum • Kanban • Agile • Team Leadership • Remote Collaboration`
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
