@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Carlos Alexandre
 
-## 🚀 Software Development Engineer | 10+ Years Experience | São Paulo, BR 🇧🇷
+## 🚀 Software Development Engineer | 10+ Years Experience | São Paulo 🇧🇷
 
 > *"An experienced developer can work in any language"*
 
@@ -28,7 +28,7 @@ Passionate software development engineer with over a decade of experience, speci
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=calexandrepcjr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calexandrepcjr&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calexandrepcjr&layout=compact&langs_count=7&theme=tokyonight&exclude_repo=gertec_tc506m_sync&hide=tcl"/>
 </div>
 
 <div align="center">
