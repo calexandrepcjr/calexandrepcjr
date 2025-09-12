@@ -12,10 +12,10 @@ Passionate software development engineer with over a decade of experience, speci
 
 ## 🔭 Currently Working On
 
-- 🏗️ **Expresso CMS**: Building a modern TypeScript-based content management system with Clean Architecture
-- ☁️ **Cloud Migration Projects**: Leading infrastructure modernization initiatives at Ambush
-- 🚀 **DevOps Automation**: Developing CI/CD pipelines and infrastructure as code solutions
-- 📚 **Learning**: Advanced Kubernetes orchestration and service mesh technologies
+- 🚀 **Engineering Excellence**: Delivering exceptional software solutions and shipping products that exceed client expectations through consultancy work
+- ☁️ **Infrastructure Modernization**: Architecting scalable cloud solutions and guiding digital transformation initiatives
+- 🛠️ **DevOps Automation**: Developing CI/CD pipelines and infrastructure as code solutions
+- 📚 **Learning**: Advanced Kubernetes orchestration and exploring emerging technologies
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=calexandrepcjr&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
@@ -205,8 +205,8 @@ Looking for **Senior Backend/DevOps Engineer** roles or exciting **freelance pro
 
 ### 🎯 **What I'm Looking For:**
 - **Remote opportunities** in DevOps/Backend Engineering
-- **Consulting projects** in cloud infrastructure & microservices
-- **Open source collaborations** in TypeScript/C# projects
+- **Software engineering and cloud infrastructure** consulting projects
+- **Open source collaborations** in languages like C, C++, Rust, Go - expanding into unfamiliar territories
 - **Technical mentorship** and knowledge sharing
 
 </div>
