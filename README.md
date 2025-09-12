@@ -2,9 +2,26 @@
 
 ## 🚀 Software Development Engineer | 10+ Years Experience | São Paulo <img src="https://flagcdn.com/16x12/br.png" width="20" alt="Brazil"/>
 
-> *"An experienced developer can work in any language"*
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%22An+experienced+developer+can+work+in+any+language%22;Passionate+about+clean+architecture+and+scalable+solutions;10%2B+years+building+enterprise-grade+software)](https://git.io/typing-svg)
+
+</div>
 
 Passionate software development engineer with over a decade of experience, specializing in **DevOps, infrastructure design, and microservices architecture**. Expert in resolving intricate problems through sustainable, scalable solutions. Currently building innovative solutions at **Ambush** remotely from São Paulo, Brazil.
+
+## 🔭 Currently Working On
+
+- 🏗️ **Expresso CMS**: Building a modern TypeScript-based content management system with Clean Architecture
+- ☁️ **Cloud Migration Projects**: Leading infrastructure modernization initiatives at Ambush
+- 🚀 **DevOps Automation**: Developing CI/CD pipelines and infrastructure as code solutions
+- 📚 **Learning**: Advanced Kubernetes orchestration and service mesh technologies
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=calexandrepcjr&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/calexandrepcjr?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/calexandrepcjr?label=Total%20Stars&style=for-the-badge&color=yellow" alt="Total Stars" />
+</div>
 
 ---
 
@@ -118,6 +135,10 @@ Passionate software development engineer with over a decade of experience, speci
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=calexandrepcjr&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/calexandrepcjr/calexandrepcjr/output/snake.svg" alt="Snake animation" />
+</div>
+
 ---
 
 ## 🏆 Featured Projects
@@ -170,14 +191,23 @@ Passionate software development engineer with over a decade of experience, speci
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
+
+### 💼 **Open for Opportunities**
+Looking for **Senior Backend/DevOps Engineer** roles or exciting **freelance projects**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-alexandre-pires-de-carvalho-junior-04110033/)
 [![GitLab](https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/capcj)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/calexandrepcjr)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/calexandrepcjr)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos@example.com)
+
+### 🎯 **What I'm Looking For:**
+- **Remote opportunities** in DevOps/Backend Engineering
+- **Consulting projects** in cloud infrastructure & microservices
+- **Open source collaborations** in TypeScript/C# projects
+- **Technical mentorship** and knowledge sharing
 
 </div>
 
@@ -192,11 +222,18 @@ Passionate software development engineer with over a decade of experience, speci
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=calexandrepcjr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  
-  **⭐ Passionate about technology and continuous learning**
-  
-  **💼 Open to exciting opportunities and collaborations**
+
+## 📈 Profile Analytics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=calexandrepcjr&theme=tokyonight" alt="Profile Summary"/>
+
+### 🎯 **Mission Statement**
+*"Building scalable, maintainable software solutions that make a real difference in people's lives while fostering collaborative, innovative development environments."*
+
+**⭐ Passionate about Clean Architecture • Continuous Learning • Team Growth**
+
+**💡 Always exploring new technologies and sharing knowledge with the community**
+
 </div>
 
 ---
