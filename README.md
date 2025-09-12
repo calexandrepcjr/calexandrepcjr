@@ -230,9 +230,9 @@ Looking for **Senior Backend/DevOps Engineer** roles or exciting **freelance pro
 ### 🎯 **Mission Statement**
 *"Building scalable, maintainable software solutions that make a real difference in people's lives while fostering collaborative, innovative development environments."*
 
-**⭐ Passionate about Clean Architecture • Continuous Learning • Team Growth**
+**⭐ Passionate about Domain-Driven Design • Real-World Problem Solving • Team Empowerment**
 
-**💡 Always exploring new technologies and sharing knowledge with the community**
+**💡 Building software that speaks the business language and enhances daily lives for both users and development teams**
 
 </div>
 
