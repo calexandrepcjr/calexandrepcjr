@@ -8,7 +8,7 @@
 
 </div>
 
-Passionate software development engineer with over a decade of experience, specializing in **DevOps, infrastructure design, and microservices architecture**. Expert in resolving intricate problems through sustainable, scalable solutions. Currently building innovative solutions at **Ambush** remotely from São Paulo, Brazil.
+Passionate software development engineer with over a decade of experience, specializing in **DevOps, infrastructure design, and microservices architecture**. Expert in resolving intricate problems through sustainable, scalable solutions. Currently building innovative solutions at **Wiseful Oak** remotely from São Paulo, Brazil.
 
 ## 🔭 Currently Working On
 
