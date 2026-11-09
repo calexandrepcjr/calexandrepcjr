@@ -123,8 +123,8 @@ Software engineer with **15+ years of experience** in backend development, **Dev
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=calexandrepcjr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calexandrepcjr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&card_width=320"/>
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=calexandrepcjr&theme=tokyonight&bg_color=0d1117" alt="GitHub statistics from public repositories" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=calexandrepcjr&theme=tokyonight&bg_color=0d1117" alt="Top languages by public repository" />
 </div>
 
 <div align="center">
@@ -132,7 +132,7 @@ Software engineer with **15+ years of experience** in backend development, **Dev
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=calexandrepcjr&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=calexandrepcjr&theme=tokyonight&bg_color=0d1117&name=Carlos%20Alexandre" alt="GitHub contributions over the last year" />
 </div>
 
 <div align="center">
@@ -229,7 +229,7 @@ Open to **Staff+ individual contributor roles**, including **Staff and Principal
 
 ## 📈 Profile Analytics
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=calexandrepcjr&theme=tokyonight" alt="Profile Summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=calexandrepcjr&theme=tokyonight&bg_color=0d1117&timeZone=America%2FSao_Paulo" alt="Public commits by hour in the America/Sao_Paulo time zone" />
 
 ### 🎯 **Mission Statement**
 *"Building scalable, maintainable software solutions that make a real difference in people's lives while fostering collaborative, innovative development environments."*
