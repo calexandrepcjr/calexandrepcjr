@@ -136,7 +136,11 @@ Software engineer with **15+ years of experience** in backend development, **Dev
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/calexandrepcjr/calexandrepcjr/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/calexandrepcjr/calexandrepcjr/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/calexandrepcjr/calexandrepcjr/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/calexandrepcjr/calexandrepcjr/output/snake.svg" alt="Snake animation of my GitHub contribution graph" />
+  </picture>
 </div>
 
 ---
